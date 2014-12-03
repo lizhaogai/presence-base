@@ -1,5 +1,5 @@
 {
-  "name": "presence-base",
+  "name": "ninja-presence-base",
   "version": "0.0.1",
   "description": "A base for NinjaBlocks presence drivers to extend",
   "main": "index.js",
